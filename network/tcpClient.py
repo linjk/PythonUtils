@@ -2,7 +2,7 @@
 import socket
 
 target_host = "127.0.0.1"
-target_port = 9999
+target_port = 3333
 
 #建立一个socker对象
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
